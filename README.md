@@ -12,13 +12,13 @@
 
 I'm passionate about using data to solve real-world business problems through analytics and machine learning.
 
-I have hands-on experience with Python, SQL, Power BI, Tableau and TensorFlow through academic, internship and personal projects. I'm currently expanding my knowledge of Artificial Intelligence and Large Language Models (LLMs).
+I have hands-on experience with **Python, SQL, Power BI, Tableau and TensorFlow** through academic, internship and personal projects. I'm currently expanding my knowledge of **Artificial Intelligence** and **Large Language Models (LLMs)**.
 
 ---
 
 ## 🛠️ Technical Skills
 
-### Languages
+### Programming
 - Python
 - SQL
 
@@ -53,21 +53,21 @@ Developed a deep learning model using TensorFlow and Keras to classify driver be
 ---
 
 ### 📊 Customer Churn Analysis Dashboard
-Analysed over 7,000 IBM Telco customer records using Python, MySQL and Power BI to identify churn drivers and generate business insights.
+Analysed over **7,000 IBM Telco customer records** using Python, MySQL and Power BI to identify churn drivers and generate business insights.
 
 🔗 https://github.com/vyjayanthik/customer-churn-analysis
 
 ---
 
 ### 🤖 Large Language Models (LLM)
-Hands-on exploration of prompt engineering, NLP concepts and generative AI using Python.
+Built hands-on projects exploring prompt engineering, NLP concepts and Generative AI using Python.
 
 🔗 https://github.com/vyjayanthik/Large-language-models
 
 ---
 
 ### 🎗️ Breast Cancer Diagnosis Using Machine Learning
-Developed a machine learning model using Support Vector Machine (SVM) and Logistic Regression to support breast cancer diagnosis.
+Developed a machine learning model using Support Vector Machine (SVM) and Logistic Regression for breast cancer diagnosis.
 
 ---
 
@@ -82,5 +82,5 @@ Developed a machine learning model using Support Vector Machine (SVM) and Logist
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/vyjayanthik
-- LinkedIn: Coming soon
+- 🌐 GitHub: https://github.com/vyjayanthik
+- 💼 LinkedIn: Coming soon
