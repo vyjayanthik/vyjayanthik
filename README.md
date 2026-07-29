@@ -45,29 +45,20 @@ I have hands-on experience with **Python, SQL, Power BI, Tableau and TensorFlow*
 
 ## 🚀 Featured Projects
 
-### 🚗 Driver Inattention Detection (MSc Dissertation)
-Developed a deep learning model using TensorFlow and Keras to classify driver behaviour from images.
+### 🚗 Driver Inattention Detection
+Deep learning model using TensorFlow and Keras to detect driver inattention.
 
 🔗 https://github.com/vyjayanthik/Enhancing-road-safety-through-driver-inattention-detection
 
----
-
-### 📊 Customer Churn Analysis Dashboard
-Analysed over **7,000 IBM Telco customer records** using Python, MySQL and Power BI to identify churn drivers and generate business insights.
+### 📊 Customer Churn Analysis
+Customer churn prediction and dashboard using Python, SQL and Power BI.
 
 🔗 https://github.com/vyjayanthik/customer-churn-analysis
 
----
-
-### 🤖 Large Language Models (LLM)
-Built hands-on projects exploring prompt engineering, NLP concepts and Generative AI using Python.
+### 🤖 Large Language Models
+Hands-on projects exploring prompt engineering and Generative AI.
 
 🔗 https://github.com/vyjayanthik/Large-language-models
-
----
-
-### 🎗️ Breast Cancer Diagnosis Using Machine Learning
-Developed a machine learning model using Support Vector Machine (SVM) and Logistic Regression for breast cancer diagnosis.
 
 ---
 
@@ -82,5 +73,5 @@ Developed a machine learning model using Support Vector Machine (SVM) and Logist
 
 ## 📫 Connect With Me
 
-- 🌐 GitHub: https://github.com/vyjayanthik
-- 💼 LinkedIn: Coming soon
+- GitHub: https://github.com/vyjayanthik
+- LinkedIn: Coming soon
